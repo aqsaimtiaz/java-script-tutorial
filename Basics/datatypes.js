@@ -9,7 +9,7 @@ let isLoggedIn = false
         // bigint
         // String 
         // boolean
-        // null -> standalone value, representation of empty memory block that value doesn't exist
+        // null -> standalone value
         // undefined -> variable is declared but not initialized
         // symbol -> used for uniqueness
 // Object:
